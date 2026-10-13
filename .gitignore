@@ -1,0 +1,9 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.o
+*.obj
+
+# Editor and temporary files
+tempCodeRunnerFile.c
+.vscode/
